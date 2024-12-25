@@ -1,0 +1,164 @@
+nav ul{
+    border: 0px;
+    border-radius: 5px;
+    border-style:solid;
+    color:#CFCFCF;
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+    margin:28px;
+   
+}
+nav ul li{
+    margin:0 30px;
+    
+}
+.name{
+    color:#CFCFCF;
+}
+.intro{
+    color:#CFCFCF;
+}
+
+
+.nav-item{
+    list-style: none;
+    padding:30px;
+    font-size: 20px;
+    
+}
+.nav-link{
+    text-decoration: none;
+    color:#E0E0E0;
+    
+}
+.NAV{
+    margin-top:-20px;
+    justify-content: space-evenly;
+}
+#yellow-line{
+    width:4px;
+    height:170px;
+    background:linear-gradient(90deg,#ffc107,transparent)
+}
+.whole{
+    display:flex;
+    align-items: center;
+    gap:20px;
+    margin-left: 20px;
+    
+}
+p.intro{
+    font-family:'Montserrat',sans-serif;
+    color:#CFCFCF;
+    font-size:150px;
+}
+.welcome{
+    margin-left: 20px;
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #CFCFCF ;
+    margin-bottom:0px;
+    
+}
+.yellowtext{
+    color:#ffc107;
+
+}
+.welcome h1{
+    padding-bottom:0px;
+    margin-bottom:0px;
+
+}
+.intro img,
+.intro p{
+    float: left;
+    width:50%;
+}
+.intro{
+    display:flex;
+    align-items: center;
+    padding:-200px;
+    padding-top:0px;
+    margin-top:0px;
+
+}
+.intro p{
+    margin-left:20px;
+}
+.intro img{
+    width:30%;
+    margin-left:90px;
+    border-radius: 130px;
+}
+Button{
+    display:flex;
+    justify-content: center;
+    margin-left: 200px;
+    border-radius:3px;
+}
+.button-link{
+    text-align: center;
+    border-color: white;
+    padding:10px;
+    text-decoration: none;
+    color:#CFCFCF;
+
+}
+.black-section{
+    background-color: #0D0D0D;
+    color:#CFCFCF;
+    height:50v;
+}
+.grey-section{
+    background-color: #3d3d3d;
+    padding:75px;
+    margin-top:60px;
+}
+.grey-section h1,p{
+    text-align: center;
+    font-size: 17px;
+}
+.grey-section h1{
+    font-size: 45px;
+
+}
+.aboutcolor{
+    color:#ffc107;
+
+}
+.grey-section p{
+    font-size: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.skills{
+    justify-items:center;
+    align-content: center;
+    justify-content: space-evenly;
+
+}
+.skills p{
+    font-size: 35px;
+}
+.icons{
+    justify-content: space-evenly;
+}
+
+body{
+    margin:0px;
+}
+
+.skills{
+    height:270px;
+}
+.skills-color{
+    color:#ffc107;
+}
+
+
+
+
+  
