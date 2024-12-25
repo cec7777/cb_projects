@@ -1,0 +1,81 @@
+h1{
+    font-size: 45px;
+    color:black;
+    text-align: center;
+}
+
+nav ul {
+    background-color: #4B5320;
+    border-style: solid;
+    border-color: #F4A460;
+    border-width: 2px;
+    padding: 10px;
+    justify-content: center;
+    list-style-type: none;
+    margin:0 15 px;
+    display:flex;
+    font-size: 30px;
+    border-radius: 50px;
+    }
+nav ul li{
+    margin:0 15px;
+    color:#556B2F;
+}
+
+
+nav ul li a:hover{
+   background-color:antiquewhite
+   }
+
+nav ul li a {
+   color:black;
+   text-decoration: none;
+   
+}
+body{
+    background-color: bisque;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+
+}
+.Fairuz{
+    display:flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.Georges{
+    display:flex;
+    align-items: center;
+}
+.Georges img{
+width:400px;
+}
+
+.Najwa{
+    display:flex;
+    align-items: center;
+}
+.Najwa img{
+width:400px;
+}
+
+.Nancy{
+    display:flex;
+    align-items: center;
+
+}
+#nancy{
+    width:570px;
+    height:500px;
+}
+
+.Fares{
+    display:flex;
+    align-items: center;
+}
+.Fares img{
+    width: 760px;
+    height: 300px;
+}

@@ -1,0 +1,106 @@
+h1{
+    font-size: 45px;
+    color:black;
+    text-align: center;
+}
+
+nav ul {
+    background-color: #4B5320;
+    border-style: solid;
+    border-color: #F4A460;
+    border-width: 2px;
+    padding: 10px;
+    justify-content: center;
+    list-style-type: none;
+    margin:0 15 px;
+    display:flex;
+    font-size: 30px;
+    border-radius: 50px;
+    }
+nav ul li{
+    margin:0 15px;
+    color:#556B2F;
+}
+
+
+nav ul li a:hover{
+   background-color:antiquewhite
+   }
+
+nav ul li a {
+   color:black;
+   text-decoration: none;
+   
+}
+body{
+    background-color: bisque;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+
+}
+.Tab img,
+.Tab p{
+    width:50%
+}
+.Tab img{
+    height:300px;
+
+}
+
+.Tab{
+    display:flex;
+    align-items: center;
+}
+.kebbeh img,
+.kebbeh p{
+    width:50%
+}
+.kebbeh{
+    display:flex;
+    align-items: center;
+}
+.hummus img,
+.hummus p{
+    width:50%
+}
+.hummus{
+    display:flex;
+    align-items: center;
+}
+.hummus img{
+    height:300px;
+    
+}
+.Warae img{
+    height:300px;
+
+}
+.Warae img,
+.Warae p{
+    width:50%
+}
+.Warae{
+    align-items: center;
+    display:flex;
+}
+.Baba{
+    align-items: center;
+    display:flex;
+}
+.Baba img,
+.Baba p{
+    width:50%
+}
+
+
+.Falafel{
+    display:flex;
+    align-items: center;
+    
+}
+.Falafel img,
+.Falafel p{
+    width:50%
+}
